@@ -1,0 +1,5 @@
+server/node_modules/
+server/key/
+app/node_modules/
+server/.env
+app/config/
